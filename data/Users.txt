@@ -1,0 +1,9 @@
+admin
+admin
+admin123
+customer
+customer
+customer123
+storeowner
+storeowner
+owner123
